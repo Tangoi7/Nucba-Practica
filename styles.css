@@ -1,0 +1,37 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+nav
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo
+{
+    width: 10rem;
+}
+
+.div1
+{
+    position:relative;
+    left: 5px;
+    top: 10px;
+}
+
+.div2 a
+{
+    margin: 1rem;
+    color: black;
+    font-size: 2rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+}   
